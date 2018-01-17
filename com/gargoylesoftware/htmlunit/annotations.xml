@@ -1,0 +1,5 @@
+<root>
+    <item name='com.gargoylesoftware.htmlunit.WebWindowListener'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
